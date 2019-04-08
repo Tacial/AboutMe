@@ -1,4 +1,4 @@
 header: { height: 300; }
 section#corpo { display: block; width: 400; float: left; border-right: 1px solid #606060; padding: 20px; }
-side#lateral { display: block; width: 600; float: right; }
+aside#lateral { display: block; width: 600; float: right; }
 footer#rodape: { clear: both; }
