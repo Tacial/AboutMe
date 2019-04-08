@@ -1,6 +1,6 @@
 header { height: 40px; border-button: 1px solid #606060; }
 section#corpo { display: block; width: 300px; float: left; border-right: 1px solid #606060; padding: 10px; }
-img {height: 40px; width: 40px; }
-img#photo { height: 200px; width: 200px; border-radius: 90%; }
+img {height: 20px; width: 20px; }
+img#photo { height: 100px; width: 100px; border-radius: 90%; }
 aside#lateral { display: block; width: 400px; float: right; }
 footer#rodape { clear: both; border-top: 1px solid #606060; align: center; }
