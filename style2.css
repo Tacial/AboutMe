@@ -1,7 +1,7 @@
 header { text-align: center; font-size: 10px; width: 50px; border-button: 1px solid #606060; }
 h1 { text-align: center; }
-li {list-style: none;}
-section#corpo { display: block; background-color: black; color: white; width: 300px; height: 80%; float: left; border-right: 1px solid #606060;}
+li {list-style: none; }
+section#corpo { display: block; background-color: black; color: white; width: 300px; height: 80%; float: left; border-right: 1px solid #606060; }
 img { height: 30px; width: 30px; border-radius: 90%; }
 img#photo { left: 100px; align: center; height: 100px; width: 100px; border-radius: 90%; padding: 10px; }
 aside#lateral { display: block; width: 600px; padding: 10px; float: right; }
