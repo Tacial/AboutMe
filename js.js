@@ -17,3 +17,11 @@ function closeModal(mn) {
     modal.style.display = 'none';
     document.body.style.overflow = 'auto';
 }
+
+$(document).ready(function() {
+    $("#expList".find("div").hide();
+      
+    $("#expList > li").click(function() {
+        $(this).find("div").slideToggle();
+    });
+});
