@@ -1,10 +1,10 @@
-* { box-sizing: border-box; }
+* { box-sizing: border-box; font-family: "Lucida Sans", sans-serif;}
 header { text-align: center; font-size: 10px; width: 50px; border-bottom: 1px solid #606060; }
 h1 { text-align: center; }
 li {list-style: none; padding-top: 1px; padding-bottom: .5px;}
-section#corpo { display: block; background-color: black; color: white; width: 30%; float: left; border-right: 1px solid #606060; height: 868px; }
+section#corpo { display: block; background-color: #000; color: #fff; width: 30%; float: left; border-right: 1px solid #606060; height: 868px; }
 img { height: 30px; width: 30px; border-radius: 90%; }
 img#photo { left: 100px; height: 100px; width: 100px; border-radius: 90%; padding: 10px; }
 aside#lateral { display: block; padding: 5px; width: 70%; float: right; }
-a {color: white;}
+a {color: #fff;}
 footer#rodape { clear: both; border-top: 1px solid #606060; text-align: center; }
