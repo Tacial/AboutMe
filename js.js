@@ -1,3 +1,6 @@
+let d = new Date();
+document.getElementById("demo").innerHTML = d.toDateString();
+
 function openModal(mn) {
     let modal = document.getElementById(mn);
 
