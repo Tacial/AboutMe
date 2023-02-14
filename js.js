@@ -1,4 +1,5 @@
 let d = new Date();
+
 document.getElementById("demo").innerHTML = d.toDateString();
 
 function openModal(mn) {
