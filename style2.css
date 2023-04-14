@@ -3,7 +3,7 @@ header { text-align: center; font-size: 10px; width: 50px; border-bottom: 1px so
 h1 { text-align: center; }
 li {list-style: none; padding-top: 1px; padding-bottom: .5px;}
 section#corpo { display: block; background-color: #666; color: #fff; width: 30%; float: left; 
-    border-right: 1px solid #666; height: 868px; padding: 10px; }
+    border-right: 1px solid #666; height: 868px; padding: 50px; }
 img { height: 30px; width: 30px; border-radius: 70%; }
 img#photo { left: 1100px; height: 100px; width: 100px; border-radius: 90%; padding: 10px; float: right; }
 aside#lateral { display: block; padding: 5px; width: 70%; float: right; }
