@@ -8,5 +8,4 @@ img { height: 30px; width: 30px; border-radius: 70%; }
 img#photo { left: 1100px; height: 100px; width: 100px; border-radius: 90%; padding: 10px; float: right; }
 aside#lateral { display: block; padding: 5px; width: 70%; float: right; padding: 30px; }
 a {color: #fff;}
-
 footer#rodape { clear: both; border-top: 1px solid #606060; text-align: center; }
