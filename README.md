@@ -1,5 +1,5 @@
 # AboutMe
-# Curriculo 
+Currículo - informações profissionais
 
 # Sobre o Projeto
 Neste projeto, fizemos um currículo em formato landing page, para treinar e consolidar conhecimentos em HTML e CSS.
